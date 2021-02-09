@@ -1,0 +1,25 @@
+a:link{
+    color: crimson;
+}
+a:visited{
+    color:crimson;
+}
+a:hover{
+    color:magenta
+}
+
+a:active{
+    color: rgb(235, 112, 132);
+}
+h1{
+    color: rgb(238, 106, 209);
+}
+p{
+    color:rgb(241, 40, 198)
+}
+ul{
+    color:rgb(241, 40, 198)
+}
+.header{
+    color: limegreen;
+}
